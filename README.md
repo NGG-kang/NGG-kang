@@ -6,7 +6,9 @@
 
 ### Main Stack
 
-**Python, Django, RestFramework**
+**Python, Django, Fastapi, Flask**
+
+**java, Springboot**
 
 <br/>
 
